@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SpideyDLK
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Computer Science
+- 💼 I'm currently working as a Software Engineering Intern @ WSO2
 - 💞️ I’m looking to collaborate on anything I can learn from
 - 📫 How to reach me deelaka.pushpakumara@gmail.com
 
